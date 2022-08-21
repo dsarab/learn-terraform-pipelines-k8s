@@ -3,7 +3,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "hashicorp-learn"
+    organization = "Kubernetes-dan"
     workspaces {
       name = "learn-terraform-pipelines-k8s"
     }
